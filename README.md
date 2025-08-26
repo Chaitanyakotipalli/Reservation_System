@@ -13,7 +13,6 @@ A comprehensive railway reservation platform that allows users to **book seats, 
 ## My Contributions 💻
 
 - Designed and implemented complex **MySQL queries** for dynamic data retrieval and waitlist management.  
-- Developed backend logic using **Django** and **FastAPI** for smooth service integration.  
 - Ensured seamless **group and family seat allocation** with custom database handling.
 
 ## Tech Stack 🛠️
@@ -36,7 +35,6 @@ Clone the repository and set up the project locally:
 ```bash
 git clone https://github.com/Chaitanyakotipalli/Reservation_System.git
 cd Reservation_System
-pip install -r requirements.txt
 # Run Django backend
 python manage.py runserver
 # Start React frontend (if separate folder)
